@@ -16,7 +16,6 @@ class Migration(migrations.Migration):
                 ('quantity', models.IntegerField()),
                 ('description', models.CharField()),
             ],
-            
         ),
     ]
 
